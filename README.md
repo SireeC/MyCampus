@@ -22,13 +22,13 @@ Company Showcase: Displays company logos representing students' career destinati
 
 Career Transformation Courses: Highlights different IT training programs, including:
 
-Java Full Stack with Cloud & DevOps
+- Java Full Stack with Cloud & DevOps
 
-Python with Data Science
+- Python with Data Science
 
-MERN Full Stack with Cloud & DevOps
+- MERN Full Stack with Cloud & DevOps
 
-Python Full Stack with GenAI
+- Python Full Stack with GenAI
 
 Team & Mentors: Displays team member and mentor profiles.
 
@@ -45,14 +45,17 @@ Font Awesome
 
 ## Project Structure
 
+```text
 myCampus/
 │
 ├── index.html
 ├── style.css
+│
 ├── screenshot/
 │   └── myCampus_ss.png
 │
 └── README.md
+```
 
 ## Learning Outcomes
 
