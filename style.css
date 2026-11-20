@@ -1200,7 +1200,7 @@
             justify-content: space-around;
             padding: 20px 0px;
             border-bottom: 1px solid gray;
-            width: 100%;
+            width: fit-content;
 
             .p1 {
                 display: flex;
@@ -1412,12 +1412,11 @@
 @media (max-width: 600px) {
     .container {
         width: 100%;
-        max-width: 100%;
-        margin: 0 auto;
+        min-height: 100vh;
+        margin: 0;
         box-sizing: border-box;
-        overflow-x: hidden;
-        padding-top: 15px;
-        gap: 20px;
+        background-color: lightpink;
+        align-items: center;
 
         .top {
             justify-content: center;
